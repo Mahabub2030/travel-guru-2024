@@ -1,0 +1,42 @@
+[
+  {
+      "id": 1,
+      "title": "Tropical Paradise",
+      "description": "Relax on sandy beaches and enjoy the crystal-clear waters of this beautiful tropical paradise.",
+      "location": "Maldives",
+      "price": 1200,
+      "img": "https://i.ibb.co/VpJB1gp/hotttel-img.jpg"
+  },
+  {
+      "id": 2,
+      "title": "Mountain Escape",
+      "description": "A serene getaway surrounded by towering mountains and lush green valleys, perfect for adventurers.",
+      "location": "Swiss Alps, Switzerland",
+      "price": 1500,
+      "img": "https://i.ibb.co/VpJB1gp/hotttel-img.jpg"
+  },
+  {
+      "id": 3,
+      "title": "City Lights Adventure",
+      "description": "Explore the vibrant nightlife, iconic landmarks, and rich culture of this bustling metropolis.",
+      "location": "Tokyo, Japan",
+      "price": 1000,
+      "img": "https://i.ibb.co/VpJB1gp/hotttel-img.jpg"
+  },
+  {
+      "id": 4,
+      "title": "Desert Safari",
+      "description": "Experience the thrill of dune bashing and the beauty of a sunset over endless desert sands.",
+      "location": "Dubai, UAE",
+      "price": 800,
+      "img": "https://i.ibb.co/VpJB1gp/hotttel-img.jpg"
+  },
+  {
+      "id": 5,
+      "title": "Historical Journey",
+      "description": "Discover ancient history and stunning architecture in one of the world’s most historic cities.",
+      "location": "Rome, Italy",
+      "price": 1100,
+      "img": "https://i.ibb.co/VpJB1gp/hotttel-img.jpg"
+  }
+]
